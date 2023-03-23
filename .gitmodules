@@ -8,3 +8,8 @@
 	url = https://github.com/emvolz/treedater
 	shallow = true
 	registered = true
+[submodule "treestructure"]
+	path = treestructure
+	url = https://github.com/cran/treestructure
+	shallow = true
+	registered = true
