@@ -5,6 +5,3 @@
 [submodule "treedater"]
 	path = treedater
 	url = https://github.com/emvolz/treedater
-[submodule "treestructure"]
-	path = treestructure
-	url = https://github.com/cran/treestructure
